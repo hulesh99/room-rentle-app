@@ -1,0 +1,23 @@
+{
+  "name": "RoomRental - Find Rooms & List Your Property",
+  "short_name": "RoomRental",
+  "description": "Find rooms, PGs and flats, or list your property with real-time chat and instant booking requests.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#14532d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
